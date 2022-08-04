@@ -14,6 +14,6 @@ public class Main {
         // новую переменную и выводите на экран
 
         int bonusMile = price / rubPerBonusMile;
-        System.out.println(bonusMile);
+        System.out.println("Количество бонусных миль за купленный билет: " + bonusMile);
     }
 }
